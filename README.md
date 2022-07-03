@@ -28,5 +28,3 @@ npm start
 
 ]
 
-[Expense_Tracker]: https://cypher-adi.github.io/Expense_Tracker/
-[cypher]: http://www.github.com/cypher-adi
