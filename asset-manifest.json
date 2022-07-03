@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_tracker/static/css/main.caef1c1c.chunk.css",
+    "main.js": "/react_tracker/static/js/main.33fed682.chunk.js",
+    "main.js.map": "/react_tracker/static/js/main.33fed682.chunk.js.map",
+    "runtime-main.js": "/react_tracker/static/js/runtime-main.14f2a700.js",
+    "runtime-main.js.map": "/react_tracker/static/js/runtime-main.14f2a700.js.map",
+    "static/js/2.cdcf560b.chunk.js": "/react_tracker/static/js/2.cdcf560b.chunk.js",
+    "static/js/2.cdcf560b.chunk.js.map": "/react_tracker/static/js/2.cdcf560b.chunk.js.map",
+    "index.html": "/react_tracker/index.html",
+    "precache-manifest.fc9bf2d784bc2309f7f71f9741b8ba09.js": "/react_tracker/precache-manifest.fc9bf2d784bc2309f7f71f9741b8ba09.js",
+    "service-worker.js": "/react_tracker/service-worker.js",
+    "static/css/main.caef1c1c.chunk.css.map": "/react_tracker/static/css/main.caef1c1c.chunk.css.map",
+    "static/js/2.cdcf560b.chunk.js.LICENSE.txt": "/react_tracker/static/js/2.cdcf560b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/react_tracker/static/media/logo.0efa799a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f2a700.js",
+    "static/js/2.cdcf560b.chunk.js",
+    "static/css/main.caef1c1c.chunk.css",
+    "static/js/main.33fed682.chunk.js"
+  ]
+}
